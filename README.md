@@ -21,7 +21,7 @@ A modern Kanban board application built with React, TypeScript, and Material-UI.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/task-flow.git
+git clone https://github.com/poofan/task_flow.git
 cd task-flow
 ```
 
